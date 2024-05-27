@@ -11,7 +11,7 @@ remote_theme: aksakalli/jekyll-doc-theme@gh-pages
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
 url:  https://test.kiarashsite.com # the base hostname & protocol for your site
 git_address: https://github.com/kiarashamsi/Test-Website
-git_edit_address: https://github.com/kiarashamsi/Test-Website/blob/gh-pages
+git_edit_address: https://github.com/kiarashamsi/Test-Website/blob/main
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
