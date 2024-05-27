@@ -1,9 +1,7 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
-description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+title: Scaling TGN test
+email: shamsik1@myumanitoba.ca
+description: a weboage for scaling TGN code
 lang: en-US
 
 # Configure the remote_theme plugin with the gh-pages branch
@@ -11,9 +9,9 @@ lang: en-US
 remote_theme: aksakalli/jekyll-doc-theme@gh-pages   
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url:  https://test.kiarashsite.com # the base hostname & protocol for your site
+git_address: https://github.com/kiarashamsi/Test-Website
+git_edit_address: https://github.com/kiarashamsi/Test-Website/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
