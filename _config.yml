@@ -6,9 +6,9 @@ lang: en-US
 
 # Configure the remote_theme plugin with the gh-pages branch
 # or the specific tag
-remote_theme: aksakalli/jekyll-doc-theme@gh-pages   
+# remote_theme: aksakalli/jekyll-doc-theme@gh-pages   
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url:  https://test.kiarashsite.com # the base hostname & protocol for your site
 git_address: https://github.com/kiarashamsi/Test-Website
 git_edit_address: https://github.com/kiarashamsi/Test-Website/blob/main
