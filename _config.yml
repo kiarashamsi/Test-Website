@@ -8,8 +8,8 @@ lang: en-US
 # or the specific tag
 # remote_theme: aksakalli/jekyll-doc-theme@gh-pages   
 
-baseurl: "Test-Website/" # the subpath of your site, e.g. /blog/
-url:  https://kiarashamsi.github.io/ # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url:  https://kiarashamsi.github.io/Test-Website # the base hostname & protocol for your site
 git_address: https://github.com/kiarashamsi/Test-Website
 git_edit_address: https://github.com/kiarashamsi/Test-Website/blob/main
 
